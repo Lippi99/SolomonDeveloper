@@ -1,8 +1,5 @@
-## Oi! Eu sou O Felipe
-
-
-- 🔭 Estudando front-end
-- 🌱 Estudando Typescript
+## Oi! Eu sou o Felipe!
+22 anos e Front end Júnior 😄
 
 <div align="center">
   <a href="https://github.com/SolomonDeveloper">
@@ -27,5 +24,5 @@
  </div>
   
    
-  ![Snake animation](https://github.com/SolomonDeveloper/SolomonDeveloper/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/SolomonDeveloper/SolomonDeveloper/blob/output/github-contribution-grid-snake.svg)
   
