@@ -1,4 +1,4 @@
-## Oi! Eu sou o Felipe!
+## Hey there, I'm Felipe!
 22 years old and Front-end Junior😄
 
 <div align="center">
