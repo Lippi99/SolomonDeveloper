@@ -1,5 +1,5 @@
 ## Hey there, I'm Felipe!
-22 years old and Front-end Junior😄
+22 years old and Front-end developer!
 
 <div align="center">
   <a href="https://github.com/SolomonDeveloper">
